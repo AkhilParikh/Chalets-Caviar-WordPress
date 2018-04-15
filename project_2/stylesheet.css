@@ -1,0 +1,103 @@
+/* homepage modifications */
+
+#menu-nav {
+  text-transform: uppercase;
+}
+
+h1.title-post.entry-title,
+header.entry-header,
+footer#colophon.site-footer {
+  display: none;
+}
+
+a.roll-button {
+  font-size: 1.5em;
+  color: white;
+  text-shadow: 4px 6px 10px black;
+  border: 5px inset white;
+  box-shadow: 2px 2px 5px 5px silver;
+}
+
+div.panel-row-style.panel-row-style-for-2-0 {
+  padding: 0 0;
+}
+
+a.so-widget-sow-button-wire-4626bf810d4a .ow-button-base {
+  color: #ffd700;
+}
+
+img.so-widget-image {
+  border-radius: 25px;
+  border: 5px ridge #ffd700;
+}
+
+/*listing pages modifications*/
+
+h3.archive-title {
+  display: none;
+}
+
+img.attachment-sydney-large-thumb.size-sydney-large-thumb.wp-post-image {
+  border-radius: 25px;
+  border: 8px ridge silver;
+  box-shadow: 2px 9px 50px black;
+}
+
+/* posts pages */
+
+img.attachment-large-thumb.size-large-thumb.wp-post-image {
+  border-radius: 25px;
+  border: 8px ridge silver;
+  box-shadow: 2px 9px 50px black;
+  margin-top: 30px;
+}
+
+img.attachment-medium.size-medium {
+  border-radius: 25px;
+  border: 5px ridge silver;
+  box-shadow: 2px 9px 50px black;
+  margin-top: 30px;
+}
+
+nav.navigation.post-navigation {
+  border-radius: 25px;
+  border: 4px solid silver;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+/* merging and creating boxes in post page */
+p.post-text-paragraph {
+  border-radius: 0px 0px 20px 20px;
+  border-right: 3px ridge silver;
+  border-bottom: 3px ridge silver;
+  border-left: 3px ridge silver;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+h4.widget-title {
+  margin-bottom: 0px;
+  border-radius: 20px 20px 0px 0px;
+  border-top: 3px ridge silver;
+  border-right: 3px ridge silver;
+  border-left: 3px ridge silver;
+  padding-top: 10px;
+  padding-bottom: 0px;
+}
+
+div#gallery-1.gallery.galleryid-361.gallery-columns-3.gallery-size-medium {
+  margin-bottom: 60px;
+}
+
+/* contact page */
+
+div.siteorigin-panels-stretch.panel-row-style.panel-row-style-for-12-0 {
+  margin-top: 25px;
+}
+
+div.sow-submit-wrapper.sow-submit-styled {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 25px;
+}
